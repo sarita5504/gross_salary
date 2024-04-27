@@ -1,1 +1,1 @@
-# gross_salary
+# Inventory Managment System
